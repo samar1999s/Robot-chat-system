@@ -6,3 +6,9 @@ convert from text to speech from an audio file, convert from speech to text from
 2. computer-crime.txt
 3. speech.cfg
 *Add both apikey and region*
+<hr>
+We worked together as a team on this task 
+team members 
+samar 
+Enas albishri 
+Shroug alzahrani
