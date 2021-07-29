@@ -8,7 +8,8 @@ convert from text to speech from an audio file, convert from speech to text from
 *Add both apikey and region*
 <hr>
 We worked together as a team on this task 
+<br>
 team members 
-samar 
-Enas albishri 
-Shroug alzahrani
+*samar salah
+*Enas albishri 
+*Shroug alzahrani
